@@ -1,4 +1,4 @@
-package com.itredds.cassandra.example;
+package com.itreddys.cassandra.example;
 
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.Host;
